@@ -17,6 +17,6 @@ Uwaga: tabela reprezentująca czas na poziomie granulacji dnia powinna dodatkowo
   - który kwartał roku<br>
 Uwaga: tabela reprezentująca czas na poziomie granulacji miesiąca oprócz numeru miesiąca oraz roku powinna
 dodatkowo zawierać atrybuty reprezentujące nazwę miesiąca oraz numer kwartału roku.<br>
-Zadanie 2
+Zadanie 2<br>
 Napisz procedurę(-y), które uzupełnią danymi wybraną tabelę faktów oraz jej tabele wymiarów. Wcześniej stwórz
 odpowiednie tabele, które będą przechowywać fakty oraz wymiary. 
