@@ -1,7 +1,7 @@
 # SQL-project
 
 Zadanie 1<br>
-Na podstawie znormalizowanego modelu relacyjnego (patrz Dodatek) należy zaprojektować jeden model danych
+Na podstawie znormalizowanego modelu relacyjnego należy zaprojektować jeden model danych
 dla hurtowni danych, na podstawie którego można byłoby dokonywać następujących analiz:
   - naliza wartości sprzedaży na poziomie dni dla danego produktu w kolejnych państwach
   - naliza wydatków na reklamę na dany produkt w danym województwie w kolejnych miesiącach
